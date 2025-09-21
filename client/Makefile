@@ -95,12 +95,12 @@ endif
 # Help target
 help:
 	@echo Available targets:
-	@echo   all     - Build release version (default)
+	@echo   all     - Build release version \(default\)
 	@echo   debug   - Build debug version
 	@echo   clean   - Remove build artifacts  
 	@echo   install - Copy executable to parent directory
 	@echo   help    - Show this help
-	@echo.
+	@echo ""
 	@echo Usage examples:
 	@echo   make
 	@echo   make debug

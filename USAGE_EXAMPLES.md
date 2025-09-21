@@ -71,7 +71,7 @@ Hexdump:
 **Input:** HTTP Request from browser
 ```
 GET / HTTP/1.1
-Host: example.com
+Host: sampo.ee
 User-Agent: Mozilla/5.0...
 ```
 

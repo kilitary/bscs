@@ -1,0 +1,16 @@
+# Build artifacts
+client/obj/
+client/bin/
+*.o
+*.exe
+
+# IDE files
+*.ncb
+*.opt
+*.plg
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
